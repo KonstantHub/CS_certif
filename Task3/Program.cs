@@ -1,4 +1,4 @@
-﻿int[]myArray = {1, 2, 5, 0, 10, 34, 11};
+﻿int[]myArray = {1, 2, 7, 0, 10, 34, 11, 27};
 int myArrayLength = myArray.Length;
 void outputElemtntsBackwards(int[]array, int length)
 {
