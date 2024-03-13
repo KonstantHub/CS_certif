@@ -10,4 +10,3 @@ void outputNumbers(int num1, int num2)
     Console.Write(num2 + " ");
 }
 outputNumbers(M, N);
-
